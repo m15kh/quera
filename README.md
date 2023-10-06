@@ -28,17 +28,11 @@
 
 ## :compass: Roadmap
 
-* - name of question: (فایل نمرات)<br/>
-  question link: (https://quera.org/problemset/16397/)<br/>
-  answer name file: (grade_file.py)<br/>
-  link of answer: (https://github.com/liam1550/quera/blob/main/file_grade.py) <br/>
-  score: 100%
-
-* - name of question: (تفنگ بازی)<br/>
-  question link: (https://quera.org/problemset/182272/)<br/>
-  answer name file: (shotter.py)<br/>
-  link of answer: (https://github.com/liam1550/quera/blob/main/Shooter.py) <br/>
-  score: 90%
+| Question | Question Link | Answer Name File | Link of Answer | Score |
+|----------|---------------|------------------|----------------|-------|
+| tofang bazi  #00ADB5   | [Link](https://quera.org/problemset/16397/) | grade_file.py | [Link](https://github.com/liam1550/quera/blob/main/file_grade.py) | 100%  |
+| file nimarat      | [Link](https://quera.org/problemset/182272/) | shotter.py     | [Link](https://github.com/liam1550/quera/blob/main/Shooter.py) | 90%   |
+| zamanband poshali      | [Link](https://quera.org/problemset/14745/) | wrapper.py     | [Link](https://github.com/liam1550/quera/blob/main/wrapper.py) | ~     |
 
 
 
