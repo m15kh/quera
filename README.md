@@ -11,6 +11,7 @@
 # :notebook_with_decorative_cover: Table of Contents
 
 - [About the Project](#star2-about-the-project)
+- [Roadmap](#compass-roadmap)
 - [License](#warning-license)
 - [Contact](#handshake-contact)
 
@@ -20,10 +21,15 @@
 ### :art: Color Reference
 | Color | Hex |
 | --------------- | ---------------------------------------------------------------- |
-| Primary Color | ![#303e50](https://via.placeholder.com/10/303e50?text=+) #303e50 |
-| Secondary Color | ![#393E46](https://via.placeholder.com/10/393E46?text=+) #393E46 |
+| Primary Color | ![#2a466f](https://via.placeholder.com/10/2a466f?text=+) #2a466f |
+| Secondary Color | ![#](https://via.placeholder.com/10/?text=+) # |
 | Accent Color | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
 | Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
+
+## :compass: Roadmap
+
+* [x] فایل نمرات https://quera.org/problemset/16397/
+
 
 ## :warning: License
 
@@ -34,4 +40,3 @@ Distributed under the no License. See LICENSE.txt for more information.
 mohammad khalili (liam williams) - - mohammad.khalili1515@gmail.com
 
 Project Link: [https://github.com/liam1550/quera](https://github.com/liam1550/quera)
-
