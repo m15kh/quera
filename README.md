@@ -28,7 +28,7 @@
 
 ## :compass: Roadmap
 
-* [x] فایل نمرات https://quera.org/problemset/16397/
+* [x] name of question (فایل نمرات) question link(https://quera.org/problemset/16397/) answer name file (grade_file.py ) score :100
 
 
 ## :warning: License
