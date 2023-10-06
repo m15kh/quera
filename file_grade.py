@@ -22,7 +22,7 @@ class CourseUtil:
 
         
 
-    def load(self, line_number): 
+    def load(self, line_number): #[x]
 
         self.f = open(self.address, 'r+')
         self.lines = self.f.readlines()
@@ -36,13 +36,16 @@ class CourseUtil:
             arbitary_line = self.lines[line_number - 1]
             arbitary_line_split = arbitary_line.split(' ')
             # print('result load:', arbitary_line_split) #debugger
-            return (Grade(arbitary_line_split[0], arbitary_line_split[1], arbitary_line_split[2]))
+            st =  int(arbitary_line_split[0])
+            co = int(arbitary_line_split[1])
+            score = float(arbitary_line_split[2])
+            return (Grade(st, co, score))
             
         else:
             return None
 
 
-    def calc_student_average(self, student_id):
+    def calc_student_average(self, student_id):#[x]
         lst_st = []
         student_id = str(student_id)
         for line in self.lines:
@@ -92,7 +95,7 @@ class CourseUtil:
                 if line.find(student_code) != -1 and line.find(course_code) != -1:
                     find = True
             if find == False:
-                self.f.write(f"\n{grade}")
+                self.f.write(f"\n{str(grade)}")
 
 # file  = "all_grades.txt"
 # x = CourseUtil()
