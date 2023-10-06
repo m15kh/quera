@@ -29,7 +29,6 @@
 ## :compass: Roadmap
 
 * [x] name of question: (فایل نمرات) | question link: (https://quera.org/problemset/16397/) | answer name file: (grade_file.py ) score :100
-<font color="red">grade_file.py</font>
 
 
 ## :warning: License
