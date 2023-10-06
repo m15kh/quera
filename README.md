@@ -28,11 +28,17 @@
 
 ## :compass: Roadmap
 
-* [x] name of question: (فایل نمرات)<br/>
+* - name of question: (فایل نمرات)<br/>
   question link: (https://quera.org/problemset/16397/)<br/>
   answer name file: (grade_file.py)<br/>
   link of answer: (https://github.com/liam1550/quera/blob/main/file_grade.py) <br/>
-  score: 100
+  score: 100%
+
+* - name of question: (اتفنگ بازی)<br/>
+  question link: (https://quera.org/problemset/182272/)<br/>
+  answer name file: (shotter.py)<br/>
+  link of answer: (https://github.com/liam1550/quera/blob/main/Shooter.py) <br/>
+  score: 90%
 
 
 
