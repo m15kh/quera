@@ -18,14 +18,6 @@
 
 ## :star2: About the Project
 
-### :art: Color Reference
-| Color | Hex |
-| --------------- | ---------------------------------------------------------------- |
-| Primary Color | ![#2a466f](https://via.placeholder.com/10/2a466f?text=+) #2a466f |
-| Secondary Color | ![#](https://via.placeholder.com/10/?text=+) # |
-| Accent Color | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
-| Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
-
 ## :compass: Roadmap
 
 | Question | Question Link | Answer Name File | Link of Answer | Level | Score |
