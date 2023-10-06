@@ -34,4 +34,4 @@ Distributed under the no License. See LICENSE.txt for more information.
 mohammad khalili (liam williams) - - mohammad.khalili1515@gmail.com
 
 Project Link: [https://github.com/liam1550/quera](https://github.com/liam1550/quera)
- file_grade.py		----->		https://quera.org/problemset/16397/   (فایل نمرات)
+
