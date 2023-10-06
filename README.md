@@ -34,7 +34,7 @@
   link of answer: (https://github.com/liam1550/quera/blob/main/file_grade.py) <br/>
   score: 100%
 
-* - name of question: (اتفنگ بازی)<br/>
+* - name of question: (تفنگ بازی)<br/>
   question link: (https://quera.org/problemset/182272/)<br/>
   answer name file: (shotter.py)<br/>
   link of answer: (https://github.com/liam1550/quera/blob/main/Shooter.py) <br/>
