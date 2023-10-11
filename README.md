@@ -22,7 +22,7 @@
 ### python questions
 | Question | Question Link | Answer Name File | Link of Answer | Level | Score |
 |----------|---------------|------------------|----------------|-------|-------|
-| tofang bazi     | [Link](https://quera.org/problemset/16397/) | grade_file.py | [Link](https://github.com/liam1550/quera/blob/main/file_grade.py) | simple  | 100%  |
+| tofang bazi     | [Link](https://quera.org/problemset/16397/) | grade_file.py | [Link](https://github.com/liam1550/quera/blob/main/file_grade.py) | hard  | 100%  |
 | file nomarat      | [Link](https://quera.org/problemset/182272/) | shotter.py     | [Link](https://github.com/liam1550/quera/blob/main/Shooter.py) | hard | 90%   |
 | zamanband poshali      | [Link](https://quera.org/problemset/14745/) | wrapper.py     | [Link](https://github.com/liam1550/quera/blob/main/wrapper.py) | hard  | ~     |
 
