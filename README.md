@@ -32,7 +32,7 @@
 | Question | Question Link | Answer Name File | Link of Answer | Level | Score |
 |----------|---------------|------------------|----------------|-------|-------|
 | belog    | [Link](https://quera.org/problemset/14742/) | models.py | [Link](https://github.com/liam1550/quera/blob/main/models.py) | medium  | 100%  |
-
+| belog    | [Link](https://quera.org/problemset/76281/) | ~.py | [Link](~) | medium  | ~%  |
 
 
 ## :warning: License
